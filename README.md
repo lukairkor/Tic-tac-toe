@@ -1,8 +1,8 @@
 # kolko_krzyzyk
-## Aplikacja Scheduler rtos:
+## Player select:
 
 ![alt text](https://github.com/lukairkor/kolko_krzyzyk/blob/main/1.png?raw=true)
 
-## Aplikacja Scheduler rtos:
+## Game board:
 
 ![alt text](https://github.com/lukairkor/kolko_krzyzyk/blob/main/2.png?raw=true)
